@@ -1,5 +1,5 @@
-min_number = int(input())
-max_number = int(input())
+min_number = int(input())#number digits starts from
+max_number = int(input())#number digits ends
 for a in range(min_number, max_number+1):
     for b in range(min_number, max_number+1):
         for c in range(min_number, max_number+1):
